@@ -1877,6 +1877,11 @@ id barrier
 id baseline
 id beginOnFirstDraw
 id beginning
+id best_sell
+id bestsell_image
+id bestsell_name
+id bestsell_price
+id bestsell_recycler
 id blocking
 id bottom
 id bounce
@@ -1889,6 +1894,8 @@ id button
 id buttonPanel
 id cache_measures
 id cancel_button
+id category_image
+id category_recycler
 id center
 id center_horizontal
 id center_vertical
@@ -1959,6 +1966,11 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
+id fea_see_all
+id feature_image
+id feature_name
+id feature_price
+id feature_recycler
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1971,6 +1983,7 @@ id forever
 id fragment_container_view_tag
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gone
 id graph
 id graph_wrap
@@ -1982,6 +1995,7 @@ id header_title
 id hideable
 id home
 id homeAsUp
+id home_container
 id honorRequest
 id icon
 id icon_group
@@ -2011,7 +2025,6 @@ id list_item
 id log_btn
 id log_email
 id log_pass
-id logout
 id masked
 id material_clock_display
 id material_clock_face
@@ -2132,6 +2145,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id see_all
 id select_dialog_listview
 id selected
 id selection_type
@@ -2310,7 +2324,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_detail
 layout activity_home
+layout activity_item
 layout activity_login
 layout activity_main
 layout activity_register
@@ -2333,6 +2349,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_home
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2385,6 +2402,9 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout single_bestsell_item
+layout single_category_item
+layout single_feature_item
 layout support_simple_spinner_dropdown_item
 layout test_action_chip
 layout test_chip_zero_corner_radius
@@ -2404,6 +2424,7 @@ layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+raw keep
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -2472,6 +2493,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description

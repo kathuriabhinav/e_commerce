@@ -1,5 +1,18 @@
 <libraries>
   <library
+      name="com.github.bumptech.glide:glide:4.13.2@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\4a792e8b432babc0e1815159b044b64e\transformed\glide-4.13.2\jars\classes.jar"
+      resolved="com.github.bumptech.glide:glide:4.13.2"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\4a792e8b432babc0e1815159b044b64e\transformed\glide-4.13.2"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
       name="com.google.android.material:material:1.4.0@aar"
       jars="C:\Users\kathu\.gradle\caches\transforms-3\540a8c1c5153d5d017fb64d914df643c\transformed\material-1.4.0\jars\classes.jar"
       resolved="com.google.android.material:material:1.4.0"
@@ -43,6 +56,32 @@
       jars="C:\Users\kathu\.gradle\caches\transforms-3\090866fa051f1b4a66d720a4a0ddf70f\transformed\firebase-auth-21.0.6\jars\classes.jar"
       resolved="com.google.firebase:firebase-auth:21.0.6"
       folder="C:\Users\kathu\.gradle\caches\transforms-3\090866fa051f1b4a66d720a4a0ddf70f\transformed\firebase-auth-21.0.6"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-firestore:24.2.0@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\5b914ee95c0c861771e0e850e6813c3e\transformed\firebase-firestore-24.2.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-firestore:24.2.0"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\5b914ee95c0c861771e0e850e6813c3e\transformed\firebase-firestore-24.2.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.github.bumptech.glide:gifdecoder:4.13.2@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\328107f334c040eb3180e691ce327656\transformed\gifdecoder-4.13.2\jars\classes.jar"
+      resolved="com.github.bumptech.glide:gifdecoder:4.13.2"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\328107f334c040eb3180e691ce327656\transformed\gifdecoder-4.13.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -104,10 +143,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.google.firebase:firebase-common:20.1.0@aar"
-      jars="C:\Users\kathu\.gradle\caches\transforms-3\5b50134f44993d143e8ea9910de4ea63\transformed\firebase-common-20.1.0\jars\classes.jar"
-      resolved="com.google.firebase:firebase-common:20.1.0"
-      folder="C:\Users\kathu\.gradle\caches\transforms-3\5b50134f44993d143e8ea9910de4ea63\transformed\firebase-common-20.1.0"
+      name="com.google.firebase:firebase-appcheck-interop:16.0.0@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\bab19bd7aaf1bb7e590851957c6565b1\transformed\firebase-appcheck-interop-16.0.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-appcheck-interop:16.0.0"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\bab19bd7aaf1bb7e590851957c6565b1\transformed\firebase-appcheck-interop-16.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -117,10 +156,36 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="com.google.android.gms:play-services-base:17.1.0@aar"
-      jars="C:\Users\kathu\.gradle\caches\transforms-3\9c8c001d6c2bcd27a5e1e14f67265aa3\transformed\play-services-base-17.1.0\jars\classes.jar"
-      resolved="com.google.android.gms:play-services-base:17.1.0"
-      folder="C:\Users\kathu\.gradle\caches\transforms-3\9c8c001d6c2bcd27a5e1e14f67265aa3\transformed\play-services-base-17.1.0"
+      name="com.google.firebase:firebase-common:20.1.1@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\506696c26b4b3d384c45df172a53cf0f\transformed\firebase-common-20.1.1\jars\classes.jar"
+      resolved="com.google.firebase:firebase-common:20.1.1"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\506696c26b4b3d384c45df172a53cf0f\transformed\firebase-common-20.1.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-database-collection:18.0.1@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\b8cd85d2a7a6ab8095bc531dab4e9d3a\transformed\firebase-database-collection-18.0.1\jars\classes.jar"
+      resolved="com.google.firebase:firebase-database-collection:18.0.1"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\b8cd85d2a7a6ab8095bc531dab4e9d3a\transformed\firebase-database-collection-18.0.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-base:18.0.1@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\2e555aa60c2973d1a450e632503526ba\transformed\play-services-base-18.0.1\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-base:18.0.1"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\2e555aa60c2973d1a450e632503526ba\transformed\play-services-base-18.0.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -160,6 +225,19 @@
       jars="C:\Users\kathu\.gradle\caches\transforms-3\74261b0a9a1587b38e8a52a539fb4ed7\transformed\fragment-1.3.4\jars\classes.jar"
       resolved="androidx.fragment:fragment:1.3.4"
       folder="C:\Users\kathu\.gradle\caches\transforms-3\74261b0a9a1587b38e8a52a539fb4ed7\transformed\fragment-1.3.4"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.exifinterface:exifinterface:1.2.0@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\a7803cc931908b34bf21d635cb170caa\transformed\exifinterface-1.2.0\jars\classes.jar"
+      resolved="androidx.exifinterface:exifinterface:1.2.0"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\a7803cc931908b34bf21d635cb170caa\transformed\exifinterface-1.2.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -485,6 +563,19 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
+      name="androidx.interpolator:interpolator:1.0.0@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\918af422cdd17aaaa491dc242d3493d4\transformed\interpolator-1.0.0\jars\classes.jar"
+      resolved="androidx.interpolator:interpolator:1.0.0"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\918af422cdd17aaaa491dc242d3493d4\transformed\interpolator-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
       name="androidx.lifecycle:lifecycle-livedata:2.0.0@aar"
       jars="C:\Users\kathu\.gradle\caches\transforms-3\320113c44b5c30d51d06ede13d039f26\transformed\lifecycle-livedata-2.0.0\jars\classes.jar"
       resolved="androidx.lifecycle:lifecycle-livedata:2.0.0"
@@ -532,19 +623,6 @@
       jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\androidx.arch.core\core-common\2.1.0\b3152fc64428c9354344bd89848ecddc09b6f07e\core-common-2.1.0.jar"
       resolved="androidx.arch.core:core-common:2.1.0"/>
   <library
-      name="androidx.interpolator:interpolator:1.0.0@aar"
-      jars="C:\Users\kathu\.gradle\caches\transforms-3\918af422cdd17aaaa491dc242d3493d4\transformed\interpolator-1.0.0\jars\classes.jar"
-      resolved="androidx.interpolator:interpolator:1.0.0"
-      folder="C:\Users\kathu\.gradle\caches\transforms-3\918af422cdd17aaaa491dc242d3493d4\transformed\interpolator-1.0.0"
-      manifest="AndroidManifest.xml"
-      resFolder="res"
-      assetsFolder="assets"
-      lintJar="lint.jar"
-      publicResources="public.txt"
-      symbolFile="R.txt"
-      externalAnnotations="annotations.zip"
-      proguardRules="proguard.txt"/>
-  <library
       name="androidx.documentfile:documentfile:1.0.0@aar"
       jars="C:\Users\kathu\.gradle\caches\transforms-3\88d25585235328f8469fd149ae7919cc\transformed\documentfile-1.0.0\jars\classes.jar"
       resolved="androidx.documentfile:documentfile:1.0.0"
@@ -575,6 +653,27 @@
       jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation\1.2.0\57136ff68ee784c6e19db34ed4a175338fadfde1\annotation-1.2.0.jar"
       resolved="androidx.annotation:annotation:1.2.0"/>
   <library
+      name="com.github.bumptech.glide:disklrucache:4.13.2@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.13.2\de4490a6d4eb207acc0aaef59de45ce18a6b63fd\disklrucache-4.13.2.jar"
+      resolved="com.github.bumptech.glide:disklrucache:4.13.2"/>
+  <library
+      name="com.github.bumptech.glide:annotations:4.13.2@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.13.2\41c0ddef7eb508bb6de9a93a85c8d4be82f65047\annotations-4.13.2.jar"
+      resolved="com.github.bumptech.glide:annotations:4.13.2"/>
+  <library
+      name="androidx.tracing:tracing:1.0.0@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\58c86896ae7868327911e1299466a239\transformed\tracing-1.0.0\jars\classes.jar"
+      resolved="androidx.tracing:tracing:1.0.0"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\58c86896ae7868327911e1299466a239\transformed\tracing-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
       name="androidx.annotation:annotation-experimental:1.0.0@aar"
       jars="C:\Users\kathu\.gradle\caches\transforms-3\fd478dab479a44e878bd4fbd9913a988\transformed\annotation-experimental-1.0.0\jars\classes.jar"
       resolved="androidx.annotation:annotation-experimental:1.0.0"
@@ -592,18 +691,26 @@
       jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\androidx.constraintlayout\constraintlayout-solver\2.0.4\1f001d7db280a89a6c26b26a66eb064bb6d5efeb\constraintlayout-solver-2.0.4.jar"
       resolved="androidx.constraintlayout:constraintlayout-solver:2.0.4"/>
   <library
-      name="com.google.guava:listenablefuture:1.0@jar"
-      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.guava\listenablefuture\1.0\c949a840a6acbc5268d088e47b04177bf90b3cad\listenablefuture-1.0.jar"
-      resolved="com.google.guava:listenablefuture:1.0"/>
+      name="io.grpc:grpc-stub:1.44.1@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-stub\1.44.1\83d83188b8c5794e41a9ad2d4442ec4fdb78afde\grpc-stub-1.44.1.jar"
+      resolved="io.grpc:grpc-stub:1.44.1"/>
   <library
-      name="com.google.firebase:firebase-annotations:16.0.0@jar"
-      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.firebase\firebase-annotations\16.0.0\dbeae20d6c97b747b59ef47b6dcf770ba1a60fa6\firebase-annotations-16.0.0.jar"
-      resolved="com.google.firebase:firebase-annotations:16.0.0"/>
+      name="com.google.guava:guava:30.1.1-android@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\30.1.1-android\5963ed171d561cca6f14659f3439b46a1633ab13\guava-30.1.1-android.jar"
+      resolved="com.google.guava:guava:30.1.1-android"/>
   <library
-      name="androidx.tracing:tracing:1.0.0@aar"
-      jars="C:\Users\kathu\.gradle\caches\transforms-3\58c86896ae7868327911e1299466a239\transformed\tracing-1.0.0\jars\classes.jar"
-      resolved="androidx.tracing:tracing:1.0.0"
-      folder="C:\Users\kathu\.gradle\caches\transforms-3\58c86896ae7868327911e1299466a239\transformed\tracing-1.0.0"
+      name="com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\b421526c5f297295adef1c886e5246c39d4ac629\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+      resolved="com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava"/>
+  <library
+      name="com.google.firebase:firebase-annotations:16.1.0@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.firebase\firebase-annotations\16.1.0\64bf465fd5aa693067bfd6bc28efb260e1ad29ea\firebase-annotations-16.1.0.jar"
+      resolved="com.google.firebase:firebase-annotations:16.1.0"/>
+  <library
+      name="com.google.firebase:protolite-well-known-types:18.0.0@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\60b3db056747563e5ae41ca67fb86ba5\transformed\protolite-well-known-types-18.0.0\jars\classes.jar"
+      resolved="com.google.firebase:protolite-well-known-types:18.0.0"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\60b3db056747563e5ae41ca67fb86ba5\transformed\protolite-well-known-types-18.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -613,7 +720,88 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
+      name="io.grpc:grpc-protobuf-lite:1.44.1@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-protobuf-lite\1.44.1\e1cd978629dacd0cee8913a9f18b94b1a52c924d\grpc-protobuf-lite-1.44.1.jar"
+      resolved="io.grpc:grpc-protobuf-lite:1.44.1"/>
+  <library
+      name="com.google.protobuf:protobuf-javalite:3.19.2@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-javalite\3.19.2\552a872042d49951a83b96b6eb5bcd9e8e4e42fd\protobuf-javalite-3.19.2.jar"
+      resolved="com.google.protobuf:protobuf-javalite:3.19.2"/>
+  <library
+      name="io.grpc:grpc-okhttp:1.44.1@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-okhttp\1.44.1\577c61816b27a2af018070d00ef8ff18c009b10a\grpc-okhttp-1.44.1.jar"
+      resolved="io.grpc:grpc-okhttp:1.44.1"/>
+  <library
+      name="com.squareup.okhttp:okhttp:2.7.5@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.5\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\okhttp-2.7.5.jar"
+      resolved="com.squareup.okhttp:okhttp:2.7.5"/>
+  <library
+      name="com.squareup.okio:okio:1.17.5@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.17.5\34336f82f14dde1c0752fd5f0546dbf3c3225aba\okio-1.17.5.jar"
+      resolved="com.squareup.okio:okio:1.17.5"/>
+  <library
+      name="io.grpc:grpc-android:1.44.1@aar"
+      jars="C:\Users\kathu\.gradle\caches\transforms-3\ac7cdb6b950a09630cf08727d1430e71\transformed\grpc-android-1.44.1\jars\classes.jar"
+      resolved="io.grpc:grpc-android:1.44.1"
+      folder="C:\Users\kathu\.gradle\caches\transforms-3\ac7cdb6b950a09630cf08727d1430e71\transformed\grpc-android-1.44.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="io.grpc:grpc-core:1.44.1@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-core\1.44.1\4546a73ff5858da60d45d734b1c9e20b4e803932\grpc-core-1.44.1.jar"
+      resolved="io.grpc:grpc-core:1.44.1"/>
+  <library
+      name="io.grpc:grpc-api:1.44.1@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-api\1.44.1\d725bde5e0944b626f63b23657d5deb65f5b7e4f\grpc-api-1.44.1.jar"
+      resolved="io.grpc:grpc-api:1.44.1"/>
+  <library
+      name="io.grpc:grpc-context:1.44.1@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\io.grpc\grpc-context\1.44.1\deddbd81cb94693acd23588b81c3265ce5a5e41a\grpc-context-1.44.1.jar"
+      resolved="io.grpc:grpc-context:1.44.1"/>
+  <library
+      name="com.google.code.findbugs:jsr305:3.0.2@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar"
+      resolved="com.google.code.findbugs:jsr305:3.0.2"/>
+  <library
+      name="com.google.guava:failureaccess:1.0.1@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.1\1dcf1de382a0bf95a3d8b0849546c88bac1292c9\failureaccess-1.0.1.jar"
+      resolved="com.google.guava:failureaccess:1.0.1"/>
+  <library
+      name="org.checkerframework:checker-compat-qual:2.5.5@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\org.checkerframework\checker-compat-qual\2.5.5\435dc33e3019c9f019e15f01aa111de9d6b2b79c\checker-compat-qual-2.5.5.jar"
+      resolved="org.checkerframework:checker-compat-qual:2.5.5"/>
+  <library
+      name="com.google.errorprone:error_prone_annotations:2.9.0@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.9.0\74fe3b8b4f3fc84dc940d0ca4c4b270dbc902764\error_prone_annotations-2.9.0.jar"
+      resolved="com.google.errorprone:error_prone_annotations:2.9.0"/>
+  <library
+      name="com.google.j2objc:j2objc-annotations:1.3@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\1.3\ba035118bc8bac37d7eff77700720999acd9986d\j2objc-annotations-1.3.jar"
+      resolved="com.google.j2objc:j2objc-annotations:1.3"/>
+  <library
       name="androidx.concurrent:concurrent-futures:1.0.0@jar"
       jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\androidx.concurrent\concurrent-futures\1.0.0\c1e77e3ee6f4643b77496a1ddf7a2eef1aefdaa1\concurrent-futures-1.0.0.jar"
       resolved="androidx.concurrent:concurrent-futures:1.0.0"/>
+  <library
+      name="io.perfmark:perfmark-api:0.23.0@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\io.perfmark\perfmark-api\0.23.0\b813b7539fae6550541da8caafd6add86d4e22f\perfmark-api-0.23.0.jar"
+      resolved="io.perfmark:perfmark-api:0.23.0"/>
+  <library
+      name="com.google.code.gson:gson:2.8.9@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.9\8a432c1d6825781e21a02db2e2c33c5fde2833b9\gson-2.8.9.jar"
+      resolved="com.google.code.gson:gson:2.8.9"/>
+  <library
+      name="com.google.android:annotations:4.1.1.4@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\com.google.android\annotations\4.1.1.4\a1678ba907bf92691d879fef34e1a187038f9259\annotations-4.1.1.4.jar"
+      resolved="com.google.android:annotations:4.1.1.4"/>
+  <library
+      name="org.codehaus.mojo:animal-sniffer-annotations:1.19@jar"
+      jars="C:\Users\kathu\.gradle\caches\modules-2\files-2.1\org.codehaus.mojo\animal-sniffer-annotations\1.19\1536e1a8fd552dc05f12b5f0827fbb2ee3d5a89b\animal-sniffer-annotations-1.19.jar"
+      resolved="org.codehaus.mojo:animal-sniffer-annotations:1.19"/>
 </libraries>

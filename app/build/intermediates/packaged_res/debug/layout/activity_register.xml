@@ -110,8 +110,8 @@
             android:gravity="center"
             android:onClick="signIn"
             android:text=" Log In"
-            android:textColor="@android:color/black"
-            android:textSize="16sp" />
+            android:textStyle="bold"
+            android:textSize="18sp" />
 
     </LinearLayout>
 

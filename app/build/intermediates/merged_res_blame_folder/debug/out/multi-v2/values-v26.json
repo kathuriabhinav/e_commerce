@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ecommerce_app-mergeDebugResources-21:/values-v26/values-v26.xml",
+            "outputFile": "com.example.ecommerce_app-mergeDebugResources-23:/values-v26/values-v26.xml",
             "map": [
                 {
                     "source": "C:\\Users\\kathu\\.gradle\\caches\\transforms-3\\63280c1b26b08172fbf51df061340dcc\\transformed\\appcompat-1.3.0\\res\\values-v26\\values-v26.xml",

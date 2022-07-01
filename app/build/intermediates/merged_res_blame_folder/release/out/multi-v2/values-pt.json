@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ecommerce_app-mergeReleaseResources-21:/values-pt/values-pt.xml",
+            "outputFile": "com.example.ecommerce_app-mergeReleaseResources-23:/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\kathu\\.gradle\\caches\\transforms-3\\7dd72130baac917b63f1fe236247c70e\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",

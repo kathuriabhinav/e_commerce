@@ -22,6 +22,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ecommerce_app" >
         <activity
+            android:name="com.example.ecommerce_app.DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ecommerce_app.ItemActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.ecommerce_app.HomeActivity"
             android:exported="false" />
         <activity
@@ -85,6 +91,9 @@
             android:exported="false" >
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
 

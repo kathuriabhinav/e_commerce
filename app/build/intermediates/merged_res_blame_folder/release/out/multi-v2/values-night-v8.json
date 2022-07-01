@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ecommerce_app-mergeReleaseResources-21:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.ecommerce_app-mergeReleaseResources-23:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\kathu\\.gradle\\caches\\transforms-3\\540a8c1c5153d5d017fb64d914df643c\\transformed\\material-1.4.0\\res\\values-night-v8\\values-night-v8.xml",

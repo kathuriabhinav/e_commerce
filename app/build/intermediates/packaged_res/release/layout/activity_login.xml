@@ -92,8 +92,8 @@
             android:layout_gravity="center"
             android:gravity="center"
             android:text=" Sign Up"
-            android:textColor="@android:color/black"
-            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textSize="18sp"
             android:onClick="signUp"/>
 
     </LinearLayout>
