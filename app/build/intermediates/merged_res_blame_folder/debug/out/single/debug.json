@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\drawable_splash_screen.png.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\drawable\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\drawable-hdpi_loadin_screen.png.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\drawable-hdpi\\loadin_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\drawable_login_button_background.png.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\drawable\\login_button_background.png"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\drawable\\icon.png"
+    },
+    {
+        "merged": "com.example.ecommerce_app-merged_res-23:/layout_activity_home.xml.flat",
+        "source": "com.example.ecommerce_app-main-25:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\drawable-hdpi_image.png.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\drawable-hdpi\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\drawable-v24_field_username_icon.png.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\drawable-v24\\field_username_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\drawable-v24_field_password_icon.png.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\drawable-v24\\field_password_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-pngs-18:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\drawable-hdpi_login_button.png.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\drawable-hdpi\\login_button.png"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-merged_res-23:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kathu\\.gradle\\daemon\\7.3.3\\com.example.ecommerce_app-main-25:\\xml\\backup_rules.xml"
+    }
+]
